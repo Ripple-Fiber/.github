@@ -42,6 +42,3 @@ Ripple Fiber is a cutting-edge internet service provider delivering blazing-fast
 
 ---
 
-![Fiber Internet](https://imagedelivery.net/DF926RUMiBgxrQOCj6Rcgg/173456af-deec-4efa-322a-a1147671d000/rippleLogo)
-
-## ✨ Stay connected, stay fast with Ripple Fiber!
