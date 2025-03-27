@@ -30,7 +30,7 @@ Ripple Fiber is a cutting-edge internet service provider delivering blazing-fast
 ## 🌍 Find out if Ripple Fiber is available in your area!
 
 > Check your address with our service availability tool:
-[Check Availability](https://availability.ripplefiber.com)
+[Check Availability]([https://ripplefiber.com](https://ripplefiber.com/availability-checker?code=git)
 
 ---
 
